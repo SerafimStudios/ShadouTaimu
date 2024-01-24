@@ -1,0 +1,192 @@
+@font-face{
+ font-family:"Gotham";
+  src: url("Gotham.ttf")format("truetype");
+   font-family: "Qumoru Genochi";
+    src: url("QUMORU\ GENOCHI.otf")format("truetype");
+     font-family: "Kingston Roman";
+      src: url("Kingston\ Roman.otf")format("truetype");
+       font-family: "RagnaRunes";
+        src: url("RagnaRunes_PERSONAL_USE_ONLY.otf")format("truetype");
+}
+h1{
+    text-align: center;
+     margin-top: 100px;
+      font-size: 50px;
+       color: rgb(234, 225, 225);
+        font-family: "RagnaRunes";
+   }
+   h3{
+    color: rgb(202, 202, 202);
+   }
+   h4{
+       text-align: left;
+        margin-top: 10px;
+         color: rgb(202, 202, 202);
+   }
+   body{
+    background-color: black;
+     background-image: url("Drawing-1.sketchpad.png");
+      background-size: cover;
+       background-position: 150px;
+        background-repeat: no-repeat;
+         background-position-y: 50px;
+   }
+     a:link,a:visited{
+    color: rgb(202, 202, 202);
+   }
+   .link1{
+    margin-top: 2px;
+     color: rgb(202, 202, 202);
+      display: flex;
+       justify-content: center;
+        align-content: center;
+         font-size: 30px;
+          font-family: RagnaRunes;
+   }
+   .link2{
+    margin-left: 550px;
+   }
+   .link3{
+    margin-top: -35px;
+     color: rgb(241, 241, 241);
+      display: flex;
+       justify-content: center;
+        align-content: center;
+         font-size: 30px;
+          font-family: RagnaRunes;
+   }
+   .Faixa_da_Guilda{
+    margin-left: 400px;
+     margin-top: 180px;
+      display: flex;
+       border: 10px double rgb(248, 246, 246);
+        width: 150px;
+         height: 150px;
+   }
+   .Camisa_da_Guilda{
+    margin-left: 850px;
+     margin-top: -152px;
+      display: flex;
+       border: 10px double rgb(248, 246, 246);
+        width: 150px;
+         height: 150px;
+   }
+   .Carteira_da_Guilda{
+    margin-left: 1250px;
+     margin-top: -152px;
+      display: flex;
+       border: 10px double rgb(248, 246, 246);
+        width: 150px;
+         height: 150px;
+   }
+   
+   .link01{
+     color: rgb(202, 202, 202);
+      display: flex;
+       justify-content: center;
+        align-content: center;
+         font-size: 30px;
+          font-family: RagnaRunes;
+           margin-top: -24px;
+            margin-right: 650px;
+   }
+   .link02{
+    margin-left: 1214px;
+     font-size: 30px;
+      font-family: RagnaRunes;
+       color: rgb(202, 202, 202);
+        margin-top: -50px;
+         display: flex;
+   }
+   .link03{
+    margin-top: -35px;
+     color: rgb(241, 241, 241);
+      display: flex;
+       justify-content: center;
+        align-content: center;
+         font-size: 30px;
+          font-family: RagnaRunes;
+   }
+   .link001{
+      color: rgb(202, 202, 202);
+       display: flex;
+        justify-content: center;
+         align-content: center;
+          font-size: 30px;
+           font-family: RagnaRunes;
+            margin-top: 49px;
+             margin-right: 650px;
+    }
+    .link002{
+     margin-left: 1214px;
+      font-size: 30px;
+       font-family: RagnaRunes;
+        color: rgb(202, 202, 202);
+         margin-top: -50px;
+          display: flex;
+    }
+    .link003{
+     margin-top: -35px;
+      color: rgb(241, 241, 241);
+       display: flex;
+        justify-content: center;
+         align-content: center;
+          font-size: 30px;
+           font-family: RagnaRunes;
+    }
+   .Faixa{
+    margin-left: 395px;
+   }
+   .Camisa{
+    margin-left: 863px;
+     margin-top: -42px;
+   }
+   .Carteira{
+    margin-left: 1260px;
+     margin-top: -42px;
+   }
+   label{
+    color:rgb(202, 202, 202);
+     display: flex;
+      margin-top: 40px;
+   }
+   input{
+    background-color: rgb(180, 180, 180);
+     padding: 5px;
+   }
+   .Fichaa{
+    color:rgb(202, 202, 202)
+   }
+   .discord{
+    margin-left: -1700px;
+     display: flex;
+      justify-content: center;
+       align-content: center;
+        margin-top: 10px;
+   }
+   .Seta{
+    color: rgb(202, 202, 202);
+     margin-top: -60px;
+      margin-left: 63px;
+       font-size: 30px;
+   }
+   .Cabo{
+    color: rgb(202, 202, 202);
+     margin-left: 73px;
+      margin-top: -65px;
+   }
+   .Grupin{
+    color: rgb(202, 202, 202);
+     margin-left: 40px;
+      font-family: RagnaRunes;
+       font-size: 25px;
+   }
+   .Shadou1 {
+    /*border: 10px solid rgb(248, 246, 246);
+     background-color: rgb(14, 13, 13);*/
+      width: 510px;
+       display: flex;
+        padding: 1px;
+         margin-left: 400px;
+          margin-top: 100px;
+   }
